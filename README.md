@@ -1,23 +1,3 @@
-Primero necesito descomprimir el archivo para revisar su contenido y luego podré crear un README.md adecuado para tu proyecto. Permíteme hacer eso.
-
-El proyecto contiene las siguientes carpetas y archivos:
-
-- **`.git`**: Carpeta utilizada por Git para el control de versiones.
-- **`.gitignore`**: Archivo que especifica qué archivos o directorios deben ser ignorados por Git.
-- **`data`**: Carpeta que probablemente contiene datos utilizados en el proyecto.
-- **`Graphics`**: Carpeta que podría contener gráficos o imágenes utilizadas en el proyecto.
-- **`NoteBooks`**: Carpeta que probablemente contiene notebooks (por ejemplo, Jupyter Notebooks) para análisis o desarrollo.
-- **`README.md`**: Archivo README existente que describe el proyecto.
-- **`requirements.txt`**: Archivo que lista las dependencias del proyecto.
-- **`SQL`**: Carpeta que probablemente contiene scripts SQL utilizados en el proyecto.
-- **`src`**: Carpeta que contiene el código fuente del proyecto.
-
-Voy a revisar el contenido del archivo `README.md` existente para ver si se necesita modificar o si prefieres crear uno nuevo desde cero.
-
-El archivo `README.md` está vacío, por lo que podemos crear uno nuevo desde cero. Aquí te dejo un ejemplo de cómo podría estructurarse el README para tu proyecto:
-
----
-
 # WorkShop_01
 
 ## Table of Contents
