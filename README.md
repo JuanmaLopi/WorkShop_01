@@ -89,6 +89,3 @@ Tu Nombre - [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
 
 Enlace al proyecto: [https://github.com/tu-usuario/WorkShop_01](https://github.com/tu-usuario/WorkShop_01)
 
----
-
-Este es un ejemplo básico, y puedes ajustarlo según las necesidades específicas de tu proyecto. ¿Te gustaría que guarde este contenido como el nuevo `README.md`?
