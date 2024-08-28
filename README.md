@@ -38,7 +38,7 @@ WorkShop_01/
 ### Steps
 1. Clone this Repository:
    ```bash
-   git clone https://github.com/JuanmaLop/WorkShop_01.git
+   git clone https://github.com/JuanmaLopi/WorkShop_01.git
    ```
 2. Navigate to the project directory:
    ```bash
