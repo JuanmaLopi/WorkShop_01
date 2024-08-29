@@ -14,12 +14,6 @@
 - **Jupyter Notebook**: Recommended tool for interactive data exploration and analysis development.
 - **Git**: For version control and collaboration.
 
-#### **3.2 Dependency Installation**
-The project includes a `requirements.txt` file with all necessary dependencies. To install these dependencies, run:
-```bash
-pip install -r requirements.txt
-```
-
 ### **4. Project Structure**
 The project is organized modularly, enabling easy navigation and understanding of the workflow.
 
@@ -101,3 +95,5 @@ This project is licensed under the MIT License. You can contact the author:
 **Name:** Juan Manuel Lopez Rodriguez  
 **Email:** [juan_m.lopez_r@uao.edu.co](mailto:juan_m.lopez_r@uao.edu.co)  
 **Repository:** [https://github.com/JuanmaLopi/WorkShop_01](https://github.com/JuanmaLopi/WorkShop_01)
+
+---
